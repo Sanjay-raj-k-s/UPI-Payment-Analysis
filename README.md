@@ -24,7 +24,7 @@ Advanced SQL concepts used throughout the analysis:
 
 ## 🖼️ Dashboard Preview
 
-![UPI Payment Ecosystem Dashboard](visuals/upi_dashboard.png)
+![UPI Payment Ecosystem Dashboard](visuals/01_upi_dashboard.png)
 
 ---
 
